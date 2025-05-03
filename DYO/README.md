@@ -4,9 +4,9 @@
 - There is a split file for each threshold preset avaliable in the [autosplitter](https://github.com/Zeuba-Speedruns/AutoSplitters/tree/main/DYO).
 
 ### Splits:
-- DYO - Any% (2 Players) : 30 splits.
-- DYO - Any% (2 Players)_threshold_5 : 6 splits.
-- DYO - Any% (2 Players)_threshold_10 : 3 splits.
+- "__DYO - Any% (2 Players)__" : 30 splits.
+- "__DYO - Any% (2 Players)\_threshold_5__" : 6 splits.
+- "__DYO - Any% (2 Players)\_threshold_10__" : 3 splits.
 
 ### Compatibiliy:
 - The splits files are intended for "__Any% (2 Players)__".
